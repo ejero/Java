@@ -2,7 +2,7 @@
 Project Title: Poker
 Project Description: Implement a simulation of a popular casino game usually called video poker
 Version or Date: 5/6/19
-How to Start the Project: Press on
+How to Start the Project: Press one
 Author: Rosita Emakpo
 User Instructions: Press 1 to play
  */
