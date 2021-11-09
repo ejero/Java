@@ -2,8 +2,8 @@
 Project Title: Main tic-tac-toe class to play the game
 Project Description: Display game board.
 Version or Date: version_01
-Author: Rosita Emakpo
-How to play: Enter row and column to make a move.
+Author: Rosita Emakpo 
+How to play: Enter row and column to make a move. EX: 1 1
  */
 
 import java.util.Scanner;
